@@ -22,6 +22,9 @@ echo %SAMPLE1%
 set SAMPLE2="いいい"
 echo %SAMPLE2%
 
+set SAMPLE3="ううう"
+echo %SAMPLE3%
+
 pause:
 
 :: vim:tw=0:
